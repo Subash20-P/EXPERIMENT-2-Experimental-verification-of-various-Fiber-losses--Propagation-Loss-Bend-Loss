@@ -40,7 +40,8 @@ V1/V2 = e [ -a (L1+L2 ) ]
 |    1m            |    10v              |     3.6v               |
 
 ### Calculation
-<img width="1042" height="652" alt="image" src="https://github.com/user-attachments/assets/f48f31a7-1e1c-48f0-8de6-2af3ee7caa94" />
+<img width="801" height="544" alt="image" src="https://github.com/user-attachments/assets/5998f143-baf1-4885-ba22-d161fd01f090" />
+
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
